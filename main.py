@@ -7,7 +7,7 @@ from collections import Counter
 # Configuration
 # ──────────────────────────────────────────────
 BASE_URL   = "http://72.60.221.150:8080"
-STUDENT_ID = "MDS202528"          # ← your student ID
+STUDENT_ID = "MDS202528"
 
 MAX_RETRIES  = 5      # max attempts before giving up on a file
 RETRY_SLEEP  = 1.0    # seconds to wait after a 429
